@@ -18,6 +18,5 @@ Gem::Specification.new do |s|
   s.add_dependency 'sprockets-rails', '~> 2.0.0.backport1'
 
   s.files         = Dir["CHANGELOG.md", "MIT-LICENSE", "README.md", "lib/**/*"]
-  s.executables   = []
   s.require_paths = ["lib"]
 end
